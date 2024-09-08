@@ -1,1 +1,1 @@
-# Logistic Regression with a Neural Network Mindset
+# Deep Learning Exercises
